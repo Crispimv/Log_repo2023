@@ -35,10 +35,10 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo análise de veículos, de otimização de distribuição e de custo visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
+Este projeto tem como objetivo análise de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
+* Criação e modelagem de um banco de dados em SQL;
+* Criação de um visualizador de indicadores em BI;
+* Aplicação do método de transportes para otimização da distribuição;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
@@ -66,7 +66,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1. 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -77,14 +77,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 2. 
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3 . Implementação
+## Sprint 3. 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -95,7 +95,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4. Operacionalização
+## Sprint 4. 
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
